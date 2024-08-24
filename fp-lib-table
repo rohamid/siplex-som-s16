@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "castellated_holes_header")(type "KiCad")(uri "${KIPRJMOD}/lib/castellated_holes_header.pretty")(options "")(descr ""))
+)

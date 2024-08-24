@@ -1,0 +1,1383 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3553d318-c74b-41b3-86db-bdd251e8121d")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Device:RFShield_OnePiece"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RFShield_OnePiece"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "One-piece EMI RF shielding cabinet"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "RF EMI shielding cabinet"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "RFShield_OnePiece_0_1"
+				(polyline
+					(pts
+						(xy -15.24 -5.08) (xy -15.24 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -15.24 -1.27) (xy -15.24 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -15.24 2.54) (xy -15.24 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -12.7 7.62) (xy -10.16 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -10.16 -7.62) (xy -12.7 -7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.35 -7.62) (xy -8.89 -7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.35 7.62) (xy -8.89 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -7.62) (xy -5.08 -7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 7.62) (xy -5.08 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -7.62) (xy 1.27 -7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 7.62) (xy -1.27 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -7.62) (xy 5.08 -7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 7.62) (xy 2.54 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -7.62) (xy 8.89 -7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 7.62) (xy 6.35 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -7.62) (xy 12.7 -7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 7.62) (xy 10.16 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -5.08) (xy 15.24 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -1.27) (xy 15.24 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 2.54) (xy 15.24 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -15.24 6.35) (xy -15.24 7.62) (xy -13.97 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -13.97 -7.62) (xy -15.24 -7.62) (xy -15.24 -6.35)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.97 -7.62) (xy 15.24 -7.62) (xy 15.24 -6.35)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 6.35) (xy 15.24 7.62) (xy 13.97 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RFShield_OnePiece_1_1"
+				(pin passive line
+					(at 0 -10.16 90)
+					(length 2.54)
+					(name "Shield"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 158.75 81.28) (xy 176.53 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10375784-91d3-492c-9fc2-d9a2517393fc")
+	)
+	(wire
+		(pts
+			(xy 158.75 110.49) (xy 176.53 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26df0169-1e20-406b-b6b7-357ad5943dad")
+	)
+	(bus
+		(pts
+			(xy 158.75 49.53) (xy 176.53 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ab5716a-e1d8-43cc-a266-01d19e37d95d")
+	)
+	(wire
+		(pts
+			(xy 158.75 86.36) (xy 176.53 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4892e403-749e-4128-a541-4cc2ab2d37f0")
+	)
+	(wire
+		(pts
+			(xy 158.75 55.88) (xy 176.53 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cefc31c-e7d9-435a-9afd-718fe836c124")
+	)
+	(wire
+		(pts
+			(xy 158.75 105.41) (xy 176.53 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "577f44a4-174c-4b26-a74c-fd19442518fd")
+	)
+	(wire
+		(pts
+			(xy 158.75 118.11) (xy 176.53 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64daffe7-8c35-484c-9041-4b644948c090")
+	)
+	(wire
+		(pts
+			(xy 158.75 64.77) (xy 176.53 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65d49dcb-ba7c-434f-8ae6-0fcc9eae4440")
+	)
+	(wire
+		(pts
+			(xy 158.75 78.74) (xy 176.53 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a5a79c2-a01e-418f-b933-e80dd0b80314")
+	)
+	(wire
+		(pts
+			(xy 158.75 107.95) (xy 176.53 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a973b69-11a4-40f6-a43c-004bab61e924")
+	)
+	(wire
+		(pts
+			(xy 158.75 67.31) (xy 176.53 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ae86aa6-ae46-4b3e-89fe-7f33978ece70")
+	)
+	(wire
+		(pts
+			(xy 158.75 69.85) (xy 176.53 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6620ffd-1d79-4abf-8091-1d7bd5b9dcd5")
+	)
+	(wire
+		(pts
+			(xy 158.75 115.57) (xy 176.53 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca28e833-ede2-4170-81d6-3527e2a8d966")
+	)
+	(wire
+		(pts
+			(xy 158.75 76.2) (xy 176.53 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb7af27d-9824-4068-8c1d-6947ba6d0c3f")
+	)
+	(wire
+		(pts
+			(xy 158.75 113.03) (xy 176.53 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e47e241e-56b9-4003-b0e6-33bf5bf6b096")
+	)
+	(wire
+		(pts
+			(xy 158.75 83.82) (xy 176.53 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed6bef9d-1b7e-49e2-9f43-4b6071add2b4")
+	)
+	(bus
+		(pts
+			(xy 158.75 52.07) (xy 176.53 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9f5a863-1a80-4fb2-a62f-a15a4371cc1d")
+	)
+	(wire
+		(pts
+			(xy 139.7 168.91) (xy 139.7 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff2b83fe-5918-4722-b949-e899e3cfcdc9")
+	)
+	(wire
+		(pts
+			(xy 158.75 58.42) (xy 176.53 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffd3370c-d306-44b0-8a11-49a9a37b8a83")
+	)
+	(symbol
+		(lib_id "Device:RFShield_OnePiece")
+		(at 139.7 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8862cfd2-7675-459e-8445-1ea2b67edbee")
+		(property "Reference" "J1"
+			(at 156.21 154.9399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RFShield_OnePiece"
+			(at 156.21 157.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "RF_Shielding:Laird_Technologies_BMI-S-103_26.21x26.21mm"
+			(at 139.7 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "One-piece EMI RF shielding cabinet"
+			(at 139.7 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "66be19a5-704e-413c-9f14-2256e8e1735e")
+		)
+		(instances
+			(project "siplex-som-s16"
+				(path "/3553d318-c74b-41b3-86db-bdd251e8121d"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 139.7 168.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3331b08-a5ac-4183-9461-6e4c65bd0a35")
+		(property "Reference" "#PWR056"
+			(at 139.7 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 139.7 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 139.7 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6740ba7f-3461-41ce-a265-acfb8441007f")
+		)
+		(instances
+			(project "siplex-som-s16"
+				(path "/3553d318-c74b-41b3-86db-bdd251e8121d"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 58.42 38.1)
+		(size 35.56 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "31b73118-eca6-45e3-8db7-2cf4aff2759e")
+		(property "Sheetname" "PMIC"
+			(at 58.42 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Bat-Mgt.kicad_sch"
+			(at 58.42 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "siplex-som-s16"
+				(path "/3553d318-c74b-41b3-86db-bdd251e8121d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 36.83)
+		(size 40.64 99.06)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7af0b5f7-6cdd-4968-bcef-b9aaf4addc6a")
+		(property "Sheetname" "MCU"
+			(at 118.11 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32H743IIK.kicad_sch"
+			(at 118.11 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SWO" bidirectional
+			(at 118.11 64.77 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c20ad10f-5dcc-4a24-be36-d5e9fa4afd4a")
+		)
+		(pin "SWDIO" bidirectional
+			(at 118.11 67.31 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7fbcbb86-901d-4a71-b53b-cbb7a794beae")
+		)
+		(pin "SWCLK" input
+			(at 118.11 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cb4f880f-01dd-4c74-b09b-32b48a0eb79b")
+		)
+		(pin "SDRAM_A[0..12]" output
+			(at 158.75 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6248177b-4771-42b1-9686-b6cdc9dfb75b")
+		)
+		(pin "SDRAM_DQ[0..15]" bidirectional
+			(at 158.75 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5c6958a4-4aae-4fae-94e0-ced2427b2514")
+		)
+		(pin "~{SDRAM_WE}" output
+			(at 158.75 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a9418d09-615e-4e3a-a2d5-e3487093e867")
+		)
+		(pin "SDRAM_BA0" output
+			(at 158.75 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "daad0fe0-fbf9-459b-a30e-1582e25ff45a")
+		)
+		(pin "SDRAM_BA1" output
+			(at 158.75 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d68b1185-19a0-4874-847c-af0257b9e836")
+		)
+		(pin "~{SDRAM_CAS}" output
+			(at 158.75 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7393edcb-5034-4569-a159-8ba276717118")
+		)
+		(pin "~{SDRAM_RAS}" output
+			(at 158.75 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c90ddb03-5d58-45eb-b9a5-06471fbeb583")
+		)
+		(pin "SDRAM_CKE" output
+			(at 158.75 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bee43669-e552-406b-9b11-39de1b1325af")
+		)
+		(pin "~{SDRAM_CS}" output
+			(at 158.75 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "34e92558-c704-4d60-bb42-daa221e748e3")
+		)
+		(pin "SDRAM_DQMH" output
+			(at 158.75 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d101297c-3f67-4377-9da3-40964433039c")
+		)
+		(pin "SDRAM_CLK" output
+			(at 158.75 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "82a4e34d-ee31-4134-a599-625b738d8570")
+		)
+		(pin "SDRAM_DQML" output
+			(at 158.75 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0a6c8cd1-d10b-49fe-ba18-735a84c58c31")
+		)
+		(pin "FLASH_IO2" bidirectional
+			(at 158.75 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4591a29f-d273-4287-bd0a-95205cfda9db")
+		)
+		(pin "FLASH_IO3" bidirectional
+			(at 158.75 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b34d2435-9af0-4eff-8556-e8422b34cfbd")
+		)
+		(pin "FLASH_DI(IO0)" bidirectional
+			(at 158.75 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8f894e87-f7bc-472c-b6be-39bb33f93e6e")
+		)
+		(pin "FLASH_CLK" output
+			(at 158.75 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fd133d4a-08f1-40aa-bb13-8b1a9cc61649")
+		)
+		(pin "~{FLASH_CS}" output
+			(at 158.75 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7849f50f-3159-4889-8cb8-bcfbb6f2e042")
+		)
+		(pin "FLASH_DO(IO1)" bidirectional
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fc42db4e-ccea-4f3e-824a-0d089fd109a2")
+		)
+		(instances
+			(project "siplex-som-s16"
+				(path "/3553d318-c74b-41b3-86db-bdd251e8121d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 58.42 78.74)
+		(size 35.56 45.72)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "af3af587-6476-4d54-9a54-e783925ed162")
+		(property "Sheetname" "Castellated_holes"
+			(at 58.42 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "castellated_headers.kicad_sch"
+			(at 58.42 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "siplex-som-s16"
+				(path "/3553d318-c74b-41b3-86db-bdd251e8121d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 176.53 101.6)
+		(size 27.94 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b2a8b37b-96db-4567-b891-31d7f85c3367")
+		(property "Sheetname" "MEMORY_FLASH"
+			(at 176.53 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MT25QL256.kicad_sch"
+			(at 176.53 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IO3" bidirectional
+			(at 176.53 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "927a7491-f6bc-46d2-a767-7fa6d6760952")
+		)
+		(pin "IO2" bidirectional
+			(at 176.53 115.57 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "37f0e4aa-3c21-4dd3-87af-fb55cf0ca302")
+		)
+		(pin "DO(IO1)" bidirectional
+			(at 176.53 110.49 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3ca73b33-fa10-4f17-bf8a-b8616a2b304a")
+		)
+		(pin "~{CS}" input
+			(at 176.53 107.95 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "caad19c9-d209-4ba1-9f3d-26853a217c2f")
+		)
+		(pin "CLK" input
+			(at 176.53 105.41 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5bfc5afb-d9de-4b37-a19d-deb9ac07e5c7")
+		)
+		(pin "DI(IO0)" bidirectional
+			(at 176.53 113.03 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "872be9d0-8963-4c21-b09f-17239b4df5ac")
+		)
+		(instances
+			(project "siplex-som-s16"
+				(path "/3553d318-c74b-41b3-86db-bdd251e8121d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 176.53 44.45)
+		(size 27.94 46.99)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d60ab55b-e3b1-4444-a9d7-c7c6ba944e6e")
+		(property "Sheetname" "MEMORY_SDRAM"
+			(at 176.53 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IS42S16160.kicad_sch"
+			(at 176.53 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDRAM_A[0..12]" input
+			(at 176.53 49.53 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c65f42f5-99d5-46bb-84c3-fb59f26c4d93")
+		)
+		(pin "SDRAM_DQ[0..15]" bidirectional
+			(at 176.53 52.07 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5bd8ca3f-6fe9-449e-bb38-c09cf9a05d7b")
+		)
+		(pin "SDRAM_BA0" input
+			(at 176.53 55.88 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7922e999-8462-4956-a669-7704fccb81ac")
+		)
+		(pin "SDRAM_BA1" input
+			(at 176.53 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "12085041-be7c-4393-9dad-5e8b64ff2b24")
+		)
+		(pin "~{SDRAM_WE}" input
+			(at 176.53 64.77 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "85da0f83-572b-4079-9578-37806342f305")
+		)
+		(pin "SDRAM_DQML" input
+			(at 176.53 83.82 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9b4c1e10-3254-47e5-bc13-3964759972ba")
+		)
+		(pin "~{SDRAM_CAS}" input
+			(at 176.53 67.31 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9cd6c2fa-675f-4ee0-a560-73f0b86d7ed6")
+		)
+		(pin "~{SDRAM_RAS}" input
+			(at 176.53 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ab81fefa-6a31-47b9-8253-30a10007b5f0")
+		)
+		(pin "~{SDRAM_CS}" input
+			(at 176.53 76.2 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d6d1604f-31ef-44f2-bf49-80cf0eabb0d2")
+		)
+		(pin "SDRAM_CLK" input
+			(at 176.53 81.28 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "80efcae9-d379-4c04-a1b0-1d8847524a39")
+		)
+		(pin "SDRAM_CKE" input
+			(at 176.53 78.74 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6e849435-d396-443e-9826-20c99d1f527c")
+		)
+		(pin "SDRAM_DQMH" input
+			(at 176.53 86.36 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "aa6aeb76-1c51-4055-8cdc-61102a0a6815")
+		)
+		(instances
+			(project "siplex-som-s16"
+				(path "/3553d318-c74b-41b3-86db-bdd251e8121d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

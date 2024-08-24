@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Memory_SDRAM")(type "KiCad")(uri "/home/rd-dev/Documents/workspace/kicad/kicad_custom_libraries/Memory_SDRAM/Memory_SDRAM.kicad_sym")(options "")(descr ""))
+)
