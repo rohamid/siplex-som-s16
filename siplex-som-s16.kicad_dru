@@ -2,7 +2,7 @@
 
 (rule "target length and skew"
       (condition "A.NetClass == 'SDRAM_ADDRESS'")
-      (constraint length (min 67.8mm) (opt 68mm) (max 68.2mm))
+      (constraint length (min 24.8mm) (opt 25mm) (max 25.2mm))
       (constraint skew (max 0.1mm)))
 (rule "target length and skew"
       (condition "A.NetClass == 'SDRAM_DATA'")
@@ -10,5 +10,5 @@
       (constraint skew (max 0.1mm)))
 (rule "target length and skew"
       (condition "A.NetClass == 'QSPI_FLASH'")
-      (constraint length (min 67.8mm) (opt 68mm) (max 68.2mm))
+      (constraint length (min 33.8mm) (opt 34mm) (max 34.2mm))
       (constraint skew (max 0.1mm)))
