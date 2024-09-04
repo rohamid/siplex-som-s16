@@ -474,6 +474,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 46.99) (xy 113.03 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e25273b-fab6-4bfb-ac70-655397ebd80d")
+	)
+	(wire
+		(pts
 			(xy 154.94 88.9) (xy 172.72 88.9)
 		)
 		(stroke
@@ -492,6 +502,16 @@
 		)
 		(uuid "10375784-91d3-492c-9fc2-d9a2517393fc")
 	)
+	(bus
+		(pts
+			(xy 92.71 62.23) (xy 113.03 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13300af4-9634-485a-8540-20e9279bea3b")
+	)
 	(wire
 		(pts
 			(xy 154.94 85.09) (xy 172.72 85.09)
@@ -501,6 +521,36 @@
 			(type default)
 		)
 		(uuid "29272df2-f18b-42fc-8160-d041e82ceabb")
+	)
+	(wire
+		(pts
+			(xy 92.71 95.25) (xy 113.03 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b4fabc8-a166-4659-888c-f2b0d978a8c0")
+	)
+	(wire
+		(pts
+			(xy 92.71 100.33) (xy 113.03 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "342bb903-bb92-4fdf-8e73-b1627a9d2cc8")
+	)
+	(wire
+		(pts
+			(xy 92.71 74.93) (xy 113.03 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "347aa62d-4bad-4c01-8ab4-8ce141784a72")
 	)
 	(wire
 		(pts
@@ -554,6 +604,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 90.17) (xy 113.03 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a08c630-ab2b-4f55-86f9-be744f1e42ed")
+	)
+	(wire
+		(pts
 			(xy 154.94 111.76) (xy 172.72 111.76)
 		)
 		(stroke
@@ -581,6 +641,16 @@
 			(type default)
 		)
 		(uuid "65d49dcb-ba7c-434f-8ae6-0fcc9eae4440")
+	)
+	(bus
+		(pts
+			(xy 92.71 64.77) (xy 113.03 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6646ebd4-3cd1-432d-964a-9b77609af39c")
 	)
 	(wire
 		(pts
@@ -624,6 +694,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 80.01) (xy 113.03 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "834ff726-638f-4668-a275-d696c7696504")
+	)
+	(wire
+		(pts
 			(xy 154.94 109.22) (xy 172.72 109.22)
 		)
 		(stroke
@@ -631,6 +711,26 @@
 			(type default)
 		)
 		(uuid "85cc6465-2466-4931-865e-3e1125775ad6")
+	)
+	(bus
+		(pts
+			(xy 92.71 67.31) (xy 113.03 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87895f20-82b3-4a0d-ae7d-f763b4e26577")
+	)
+	(wire
+		(pts
+			(xy 92.71 57.15) (xy 113.03 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "966df84c-f358-4dea-8ce0-79289dbb73dc")
 	)
 	(wire
 		(pts
@@ -664,6 +764,36 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 54.61) (xy 113.03 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c51a301d-d7f0-4307-996f-c9934bc717b5")
+	)
+	(wire
+		(pts
+			(xy 92.71 52.07) (xy 113.03 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6f75028-e064-4303-9647-e54fec5ffb4e")
+	)
+	(wire
+		(pts
+			(xy 92.71 72.39) (xy 113.03 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca96ff4a-b903-4e57-906e-db1be4b5f47f")
+	)
+	(wire
+		(pts
 			(xy 154.94 57.15) (xy 172.72 57.15)
 		)
 		(stroke
@@ -671,6 +801,36 @@
 			(type default)
 		)
 		(uuid "cb7af27d-9824-4068-8c1d-6947ba6d0c3f")
+	)
+	(bus
+		(pts
+			(xy 92.71 97.79) (xy 113.03 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6a5abd6-240a-48d1-8dc6-8f5f5d02736f")
+	)
+	(wire
+		(pts
+			(xy 92.71 85.09) (xy 113.03 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9238dab-94ef-4bbb-8811-e88adfd2bbf6")
+	)
+	(wire
+		(pts
+			(xy 92.71 87.63) (xy 113.03 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec3f7727-d180-4cc5-b6e3-01816facd266")
 	)
 	(wire
 		(pts
@@ -681,6 +841,16 @@
 			(type default)
 		)
 		(uuid "ed6bef9d-1b7e-49e2-9f43-4b6071add2b4")
+	)
+	(wire
+		(pts
+			(xy 92.71 77.47) (xy 113.03 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efffe8e8-acec-459a-9c22-d1ee5cda5fb2")
 	)
 	(bus
 		(pts
@@ -914,7 +1084,7 @@
 			)
 		)
 		(pin "SWO" bidirectional
-			(at 113.03 41.91 180)
+			(at 113.03 85.09 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -924,7 +1094,7 @@
 			(uuid "c20ad10f-5dcc-4a24-be36-d5e9fa4afd4a")
 		)
 		(pin "SWDIO" bidirectional
-			(at 113.03 44.45 180)
+			(at 113.03 87.63 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -934,7 +1104,7 @@
 			(uuid "7fbcbb86-901d-4a71-b53b-cbb7a794beae")
 		)
 		(pin "SWCLK" input
-			(at 113.03 46.99 180)
+			(at 113.03 90.17 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1273,6 +1443,46 @@
 			)
 			(uuid "79bd7da4-2a2b-4d16-a79f-bfee093253d4")
 		)
+		(pin "SDMMC_CLK" output
+			(at 113.03 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cbdbfb99-8c70-4181-8c62-a1128d4ce91b")
+		)
+		(pin "SDMMC_DET" input
+			(at 113.03 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cf9d84f0-0128-498a-a9bd-e805fd4d4593")
+		)
+		(pin "SDMMC_IO[0..3]" bidirectional
+			(at 113.03 97.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4f7560a1-f6f1-40cf-8edb-9295f6e3b65e")
+		)
+		(pin "BOOT0" input
+			(at 113.03 46.99 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "36d04cc4-ef5d-400a-be14-1d94858a3e66")
+		)
 		(instances
 			(project "siplex-som-s16"
 				(path "/3553d318-c74b-41b3-86db-bdd251e8121d"
@@ -1310,6 +1520,176 @@
 				)
 				(justify left top)
 			)
+		)
+		(pin "LTDC_VSYNC" input
+			(at 92.71 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "56889c96-9266-4546-8c34-c4a9f31fca09")
+		)
+		(pin "LTDC_HSYNC" input
+			(at 92.71 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4536b2e9-4104-4423-9963-65e73097c075")
+		)
+		(pin "LTDC_R[0..7]" input
+			(at 92.71 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "26d6bf9f-fe58-41a7-b9d9-312356568bb7")
+		)
+		(pin "LTDC_CLK" input
+			(at 92.71 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6fe5cdb1-e936-4ba2-af34-622501668cf0")
+		)
+		(pin "LTDC_G[0..7]" input
+			(at 92.71 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2fa92c08-3c84-41be-812d-17dd56c9ca01")
+		)
+		(pin "LTDC_B[0..7]" input
+			(at 92.71 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0f915aca-ab25-4238-b56b-dc45d9dc7a75")
+		)
+		(pin "LTDC_DE" input
+			(at 92.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "424a2095-f1b8-4305-bd11-ea3d955b39ac")
+		)
+		(pin "USB_DN" bidirectional
+			(at 92.71 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fd1ef630-f641-43df-9855-1c74b81d7aa2")
+		)
+		(pin "USB_DP" bidirectional
+			(at 92.71 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4e197b22-c184-4584-b032-3c82df5b1f88")
+		)
+		(pin "SWDIO" bidirectional
+			(at 92.71 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a27a9c4e-b04e-4892-857d-b46dfa2e9c9a")
+		)
+		(pin "SWO" bidirectional
+			(at 92.71 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "48eac740-35f3-4a85-aea9-a933204dd3e5")
+		)
+		(pin "SWCLK" input
+			(at 92.71 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d27a08e4-33b3-457a-b385-bf69ff31dc68")
+		)
+		(pin "USB_VBUS_DET" output
+			(at 92.71 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "81f24792-ab96-4a4f-b66b-3d3e8a3e21a7")
+		)
+		(pin "SDMMC_CLK" input
+			(at 92.71 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "765d3997-5a14-485b-969b-2d9d1293afaf")
+		)
+		(pin "SDMMC_IO[0..3]" bidirectional
+			(at 92.71 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4dac4d2a-8961-4d7c-af2a-02948afd95de")
+		)
+		(pin "SDMMC_DET" output
+			(at 92.71 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4f1e9bd4-84eb-4f86-90ab-da0c07dc4360")
+		)
+		(pin "BOOT0" output
+			(at 92.71 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c6b22774-83e4-4ed3-b907-db4f861ffbe5")
 		)
 		(instances
 			(project "siplex-som-s16"
