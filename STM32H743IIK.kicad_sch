@@ -6686,6 +6686,16 @@
 	)
 	(wire
 		(pts
+			(xy 313.69 109.22) (xy 322.58 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15c4d856-ec2c-4625-9aee-b9de6b34d19e")
+	)
+	(wire
+		(pts
 			(xy 48.26 128.27) (xy 59.69 128.27)
 		)
 		(stroke
@@ -7656,7 +7666,7 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 109.22) (xy 322.58 109.22)
+			(xy 313.69 111.76) (xy 322.58 111.76)
 		)
 		(stroke
 			(width 0)
@@ -8453,6 +8463,16 @@
 			(type default)
 		)
 		(uuid "b6d5ccca-e2a6-48d1-af6d-790414c158da")
+	)
+	(wire
+		(pts
+			(xy 133.35 199.39) (xy 128.27 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b70a591f-f220-4c32-aa1a-d83a314e10ba")
 	)
 	(wire
 		(pts
@@ -9887,7 +9907,7 @@
 	)
 	(hierarchical_label "SDMMC_DET"
 		(shape input)
-		(at 322.58 109.22 0)
+		(at 322.58 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10016,6 +10036,18 @@
 			(justify left)
 		)
 		(uuid "2940e7f9-71a7-4bbd-9a27-c27018c590cc")
+	)
+	(hierarchical_label "SDMMC_CMD"
+		(shape output)
+		(at 133.35 199.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2b0a4508-0bc0-47b2-bf88-b37790afec28")
 	)
 	(hierarchical_label "FLASH_BK2_IO1"
 		(shape bidirectional)
@@ -10160,6 +10192,18 @@
 			(justify left)
 		)
 		(uuid "5599032d-cabf-4f1d-9362-8253bcf58259")
+	)
+	(hierarchical_label "SDMMC_CMD"
+		(shape output)
+		(at 322.58 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "586840b5-76ac-4b67-ae30-0528d68d3130")
 	)
 	(hierarchical_label "FLASH_BK1_IO1"
 		(shape bidirectional)

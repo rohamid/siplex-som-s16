@@ -1755,6 +1755,18 @@
 		)
 		(uuid "7784d7a9-9005-43c6-a0ce-c931859da899")
 	)
+	(hierarchical_label "SDMMC_CMD"
+		(shape input)
+		(at 217.17 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a44106ba-8b21-4dff-8f83-f0fad7a6bcd9")
+	)
 	(hierarchical_label "SDMMC_CLK"
 		(shape input)
 		(at 217.17 120.65 0)

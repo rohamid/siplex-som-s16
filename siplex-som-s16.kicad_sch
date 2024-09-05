@@ -802,6 +802,16 @@
 		)
 		(uuid "cb7af27d-9824-4068-8c1d-6947ba6d0c3f")
 	)
+	(wire
+		(pts
+			(xy 92.71 102.87) (xy 113.03 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e122a5dc-f007-4560-918b-7c3f6c2756e8")
+	)
 	(bus
 		(pts
 			(xy 92.71 97.79) (xy 113.03 97.79)
@@ -1454,7 +1464,7 @@
 			(uuid "cbdbfb99-8c70-4181-8c62-a1128d4ce91b")
 		)
 		(pin "SDMMC_DET" input
-			(at 113.03 100.33 180)
+			(at 113.03 102.87 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1482,6 +1492,16 @@
 				(justify left)
 			)
 			(uuid "36d04cc4-ef5d-400a-be14-1d94858a3e66")
+		)
+		(pin "SDMMC_CMD" output
+			(at 113.03 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "667fadb5-e091-46f0-a1b4-bbfdfe7dfd36")
 		)
 		(instances
 			(project "siplex-som-s16"
@@ -1672,7 +1692,7 @@
 			(uuid "4dac4d2a-8961-4d7c-af2a-02948afd95de")
 		)
 		(pin "SDMMC_DET" output
-			(at 92.71 100.33 0)
+			(at 92.71 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1690,6 +1710,16 @@
 				(justify right)
 			)
 			(uuid "c6b22774-83e4-4ed3-b907-db4f861ffbe5")
+		)
+		(pin "SDMMC_CMD" input
+			(at 92.71 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0a2f8e35-d617-4561-9db2-93ec97cfbe5e")
 		)
 		(instances
 			(project "siplex-som-s16"
