@@ -1503,6 +1503,16 @@
 			)
 			(uuid "667fadb5-e091-46f0-a1b4-bbfdfe7dfd36")
 		)
+		(pin "NRST" input
+			(at 113.03 49.53 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0d939e03-8e84-4ebc-aa50-34530b122df9")
+		)
 		(instances
 			(project "siplex-som-s16"
 				(path "/3553d318-c74b-41b3-86db-bdd251e8121d"

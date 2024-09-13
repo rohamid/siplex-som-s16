@@ -1566,7 +1566,7 @@
 			(uuid "ac6da7bc-087a-492d-907a-caeb19092a12")
 		)
 		(instances
-			(project ""
+			(project "siplex-som-s16"
 				(path "/3553d318-c74b-41b3-86db-bdd251e8121d/31b73118-eca6-45e3-8db7-2cf4aff2759e"
 					(reference "L2")
 					(unit 1)
@@ -1702,7 +1702,7 @@
 			(uuid "5a3573b1-c188-4242-a2ca-bbb2ace95eec")
 		)
 		(instances
-			(project ""
+			(project "siplex-som-s16"
 				(path "/3553d318-c74b-41b3-86db-bdd251e8121d/31b73118-eca6-45e3-8db7-2cf4aff2759e"
 					(reference "R7")
 					(unit 1)
@@ -1768,7 +1768,7 @@
 			(uuid "f1fe51f1-1203-46ac-8dfb-8e1aaaf380f7")
 		)
 		(instances
-			(project ""
+			(project "siplex-som-s16"
 				(path "/3553d318-c74b-41b3-86db-bdd251e8121d/31b73118-eca6-45e3-8db7-2cf4aff2759e"
 					(reference "#PWR057")
 					(unit 1)
@@ -2053,7 +2053,7 @@
 			(uuid "fb9586f1-523c-4713-a26f-fe9a78c8cecc")
 		)
 		(instances
-			(project ""
+			(project "siplex-som-s16"
 				(path "/3553d318-c74b-41b3-86db-bdd251e8121d/31b73118-eca6-45e3-8db7-2cf4aff2759e"
 					(reference "U7")
 					(unit 1)
