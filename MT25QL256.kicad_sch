@@ -1118,6 +1118,126 @@
 		)
 		(uuid "fb0e8bd3-e231-447a-9263-1b7875be0167")
 	)
+	(text "PB6"
+		(exclude_from_sim no)
+		(at 111.76 66.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "00bc0d1a-ce12-408d-8513-9df1f9507487")
+	)
+	(text "PB2"
+		(exclude_from_sim no)
+		(at 111.76 119.634 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1877dbd0-de63-4637-bad5-088aa3a00631")
+	)
+	(text "PF7"
+		(exclude_from_sim no)
+		(at 111.76 76.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2273cc19-7b01-4e7f-8ac9-3a38ba9485ff")
+	)
+	(text "PF8"
+		(exclude_from_sim no)
+		(at 111.76 71.374 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "39cd9119-cf0e-4f1c-99de-199c1ffb2bb3")
+	)
+	(text "PG9"
+		(exclude_from_sim no)
+		(at 111.76 127.254 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "41924d67-c67d-405f-ac57-5a80bb27d656")
+	)
+	(text "PF6"
+		(exclude_from_sim no)
+		(at 111.76 78.994 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "46a5525c-b4cb-49aa-ac2b-f4ec0af36dd7")
+	)
+	(text "PG14"
+		(exclude_from_sim no)
+		(at 112.268 129.794 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5d9f78e8-536b-4a79-8498-6d7e99ed6d50")
+	)
+	(text "PH3"
+		(exclude_from_sim no)
+		(at 111.76 124.714 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "63bf1269-baea-4cbb-b84a-e9754d0b0a11")
+	)
+	(text "PC11"
+		(exclude_from_sim no)
+		(at 112.268 117.094 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "971f9677-f365-45f7-9a53-8cf01775befb")
+	)
+	(text "PF9"
+		(exclude_from_sim no)
+		(at 111.76 73.914 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b861aabc-9fd7-4446-af72-7fb871ae3c6f")
+	)
+	(text "PH2"
+		(exclude_from_sim no)
+		(at 111.76 122.174 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c33b8a03-7392-439e-aa0f-ece331f6c0a1")
+	)
+	(text "PB2"
+		(exclude_from_sim no)
+		(at 111.76 68.834 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c8419fad-adf4-461c-ad8d-e1e5bdb33fc8")
+	)
 	(hierarchical_label "CLK"
 		(shape input)
 		(at 125.73 119.38 180)

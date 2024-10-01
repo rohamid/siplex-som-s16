@@ -2935,6 +2935,396 @@
 		)
 		(uuid "feedc90b-7347-428e-939a-d0f84695ab82")
 	)
+	(text "PE15"
+		(exclude_from_sim no)
+		(at 177.292 81.534 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "03821841-5692-4f1a-b1c5-7183a7155e1c")
+	)
+	(text "PD9"
+		(exclude_from_sim no)
+		(at 176.784 86.614 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0562027b-0f11-4abb-b389-1814cbcd498b")
+	)
+	(text "PD0"
+		(exclude_from_sim no)
+		(at 176.784 56.134 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0a83517b-0e6e-4c9c-9722-85cbeaf9bfe7")
+	)
+	(text "PF0"
+		(exclude_from_sim no)
+		(at 107.95 51.054 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "15e449b2-8264-4c35-92f5-3eecdd93a51d")
+	)
+	(text "PE8"
+		(exclude_from_sim no)
+		(at 176.784 63.754 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1644019c-9ba9-42d0-8ff3-d1eec93fff67")
+	)
+	(text "PF1"
+		(exclude_from_sim no)
+		(at 107.95 53.594 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "16da989b-4ecd-4619-8620-5ddcdff2276c")
+	)
+	(text "PE9"
+		(exclude_from_sim no)
+		(at 176.784 66.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1c1cef59-74c4-477d-8e4b-b47aef1cf6aa")
+	)
+	(text "PG1"
+		(exclude_from_sim no)
+		(at 107.95 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2db83a46-c5f1-4f00-94ea-17727b9ed3c7")
+	)
+	(text "PC2"
+		(exclude_from_sim no)
+		(at 98.044 101.854 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "30905d3c-d573-4ee4-adf0-e3389e45edf1")
+	)
+	(text "PF5"
+		(exclude_from_sim no)
+		(at 107.95 63.754 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "30ea2b3e-4db3-4c84-8e83-b8b4f33b2554")
+	)
+	(text "PG5"
+		(exclude_from_sim no)
+		(at 98.044 89.154 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "34dbff0c-4cc5-4ac4-bddf-e234de92a257")
+	)
+	(text "PE0"
+		(exclude_from_sim no)
+		(at 98.044 109.474 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4487dadb-6655-4727-810d-f6ba35ce219c")
+	)
+	(text "PD10"
+		(exclude_from_sim no)
+		(at 177.292 89.154 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "53f70301-0112-4c8a-ba56-add6abcb2289")
+	)
+	(text "PF14"
+		(exclude_from_sim no)
+		(at 108.712 71.374 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5ca0b52f-da24-4b03-a57d-36c7a308d7ca")
+	)
+	(text "PE12"
+		(exclude_from_sim no)
+		(at 177.292 73.914 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6210704c-162b-4795-b4ff-a68164c57b6e")
+	)
+	(text "PF15"
+		(exclude_from_sim no)
+		(at 108.712 73.914 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "635cc5f5-29c8-4979-b236-366c999d44d2")
+	)
+	(text "PD1"
+		(exclude_from_sim no)
+		(at 176.784 58.674 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6acb2feb-137e-456b-9fb0-256d2e95dc43")
+	)
+	(text "PG4"
+		(exclude_from_sim no)
+		(at 98.044 86.614 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6e6098c0-569b-4ef4-88ee-42758cb44c8c")
+	)
+	(text "PG8"
+		(exclude_from_sim no)
+		(at 98.044 106.934 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7307e473-d61e-49f9-859e-dde2d6dd9b68")
+	)
+	(text "PC3"
+		(exclude_from_sim no)
+		(at 98.044 104.394 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "79c62924-e5d8-4af5-b274-0fa7f19b35db")
+	)
+	(text "PD8"
+		(exclude_from_sim no)
+		(at 176.784 84.074 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7abf7e89-6c9f-4393-8640-74c3f38acb8e")
+	)
+	(text "PE13"
+		(exclude_from_sim no)
+		(at 177.292 76.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8387383a-cd92-43de-8d33-45956e22b028")
+	)
+	(text "PF13"
+		(exclude_from_sim no)
+		(at 108.712 68.834 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "83c900e7-debb-4fed-9d5f-ca8924043010")
+	)
+	(text "PF4"
+		(exclude_from_sim no)
+		(at 107.95 61.214 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "849f310c-8271-4fc9-93d3-370f06355576")
+	)
+	(text "PD14"
+		(exclude_from_sim no)
+		(at 177.292 51.054 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "900d039e-ec6f-46eb-b405-a3da5ec1e21a")
+	)
+	(text "PF11"
+		(exclude_from_sim no)
+		(at 98.552 99.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "95367a42-a86e-4349-a9eb-7f47e2c94054")
+	)
+	(text "PF12"
+		(exclude_from_sim no)
+		(at 108.712 66.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "96091a56-4e3d-47a4-906e-da4e7178aa43")
+	)
+	(text "PG0"
+		(exclude_from_sim no)
+		(at 107.95 76.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a3184960-56f1-44ab-961f-f60b9ed29606")
+	)
+	(text "PE1"
+		(exclude_from_sim no)
+		(at 98.044 112.014 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "add8d672-2f1e-4b2e-afb4-e97c055f0b15")
+	)
+	(text "PH5"
+		(exclude_from_sim no)
+		(at 98.044 94.234 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "afef6030-f0f6-43e9-bef0-0908b7433c1e")
+	)
+	(text "PG2"
+		(exclude_from_sim no)
+		(at 107.95 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b4a9b639-a238-4163-860b-878699c4ecae")
+	)
+	(text "PE14"
+		(exclude_from_sim no)
+		(at 177.292 78.994 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bbb2ef70-93ea-4951-ba09-0b4594e54023")
+	)
+	(text "PD15"
+		(exclude_from_sim no)
+		(at 177.292 53.594 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c0323322-6214-47f5-bf7d-37ec1b778223")
+	)
+	(text "PF3"
+		(exclude_from_sim no)
+		(at 107.95 58.674 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cba04e4a-75b6-4ed9-b28c-ebaceb2731cc")
+	)
+	(text "PG15"
+		(exclude_from_sim no)
+		(at 98.552 96.774 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d8605bb1-6bb4-408c-9326-10d96ffecfb9")
+	)
+	(text "PE10"
+		(exclude_from_sim no)
+		(at 177.292 68.834 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e2fc4e80-6066-47d6-9ab9-42228feb80d0")
+	)
+	(text "PE11"
+		(exclude_from_sim no)
+		(at 177.292 71.374 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e4cbbedc-84b7-4178-9d33-3a9fbec4b746")
+	)
+	(text "PF2"
+		(exclude_from_sim no)
+		(at 107.95 56.134 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e9ee2224-d368-414d-98d6-fbe6ce4b1598")
+	)
+	(text "PE7"
+		(exclude_from_sim no)
+		(at 176.784 61.214 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ef2eb666-41c4-4d69-a3c1-834720943154")
+	)
 	(label "SDRAM_A0"
 		(at 115.57 50.8 0)
 		(fields_autoplaced yes)
