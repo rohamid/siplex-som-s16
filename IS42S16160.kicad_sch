@@ -3840,6 +3840,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C307380"
+			(at 120.65 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4675da0-ce2b-41a5-b78d-a515b1219ef6")
 		)
@@ -3972,6 +3981,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C307380"
+			(at 120.65 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "351e9ff1-4e2e-483a-97b7-95aac9b92bba")
 		)
@@ -4031,6 +4049,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 120.65 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307380"
 			(at 120.65 119.38 0)
 			(effects
 				(font
@@ -4100,6 +4127,15 @@
 		)
 		(property "Description" ""
 			(at 132.08 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C1348766"
+			(at 142.24 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4330,6 +4366,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C307380"
+			(at 113.03 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "34e0e7a3-173d-4b47-be12-cb96cd68de1e")
 		)
@@ -4389,6 +4434,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 113.03 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307380"
 			(at 113.03 127 0)
 			(effects
 				(font
@@ -4596,6 +4650,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C307380"
+			(at 120.65 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f17234dc-328e-4226-9cbd-094354b3295b")
 		)
@@ -4655,6 +4718,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 113.03 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307380"
 			(at 113.03 121.92 0)
 			(effects
 				(font

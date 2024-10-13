@@ -1503,6 +1503,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C307380"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e713d4a9-a98d-4bfb-882a-676afa951e61")
 		)
@@ -1705,6 +1714,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2986165"
+			(at 143.51 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "3eb7797a-014f-428d-b0dd-eee8bce8a43d")
 		)
@@ -1862,6 +1880,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C473048"
+			(at 130.81 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c708e4ef-f827-4635-83ae-cfaebc5c9397")
 		)
@@ -1990,6 +2017,15 @@
 			)
 		)
 		(property "Description" "32Mb Serial Flash Memory, Standard/Dual/Quad SPI, DFN-8"
+			(at 143.51 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2986165"
 			(at 143.51 73.66 0)
 			(effects
 				(font
@@ -2221,6 +2257,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C473048"
+			(at 130.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "80ea45b0-01a2-465f-a8e0-7f119ad270a9")
 		)
@@ -2283,6 +2328,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 158.75 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307380"
 			(at 158.75 62.23 0)
 			(effects
 				(font
