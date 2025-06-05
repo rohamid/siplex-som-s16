@@ -3275,6 +3275,17 @@
 			)
 		)
 	)
+	(hierarchical_label "LTDC_VSYNC"
+		(shape input)
+		(at 226.06 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2afbcf42-2527-4872-92fa-d5150ccfdf35")
+	)
 	(hierarchical_label "USB_DP"
 		(shape bidirectional)
 		(at 160.02 113.03 0)
@@ -3285,6 +3296,17 @@
 			(justify left)
 		)
 		(uuid "33def9e1-a5a9-4d7f-8da0-196b0c452070")
+	)
+	(hierarchical_label "LTDC_HSYNC"
+		(shape input)
+		(at 226.06 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "38c85322-8614-4c83-b5bb-041d12470dd3")
 	)
 	(hierarchical_label "LTDC_R[0..7]"
 		(shape input)
@@ -3363,6 +3385,17 @@
 		)
 		(uuid "6385c1e8-b1a7-4758-ba0e-5b7af68f49d6")
 	)
+	(hierarchical_label "LTDC_DE"
+		(shape input)
+		(at 226.06 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "64c6f8ed-9d95-4c9c-8d98-331ec6368385")
+	)
 	(hierarchical_label "SWCLK"
 		(shape input)
 		(at 160.02 120.65 0)
@@ -3406,6 +3439,17 @@
 			(justify left)
 		)
 		(uuid "a4bc9ac4-d5d0-490d-8061-21aff74a324f")
+	)
+	(hierarchical_label "LTDC_CLK"
+		(shape input)
+		(at 226.06 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a759c865-c1a8-4ada-92b8-1bcfb606f592")
 	)
 	(hierarchical_label "SDMMC_IO[0..3]"
 		(shape bidirectional)
@@ -3483,6 +3527,52 @@
 			(justify left)
 		)
 		(uuid "fa76847f-8d7a-4b5c-bf51-20f5c3c48da4")
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 222.25 95.25) (xy 243.84 95.25) (xy 243.84 76.2) (xy 223.52 76.2) (xy 222.25 76.2)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid bc27b800-2b03-4618-9941-1fa9e4039fe7)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 232.41 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e575fd5f-2e92-4adc-ac1f-04a278d2aa5e")
+		(property "Netclass" "LTDC"
+			(at 233.1085 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -39.37 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")

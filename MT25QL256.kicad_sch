@@ -745,7 +745,7 @@
 	)
 	(text "PB6"
 		(exclude_from_sim no)
-		(at 111.76 66.294 0)
+		(at 105.41 66.294 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -765,7 +765,7 @@
 	)
 	(text "PF7"
 		(exclude_from_sim no)
-		(at 111.76 76.454 0)
+		(at 105.41 76.454 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -775,7 +775,7 @@
 	)
 	(text "PF8"
 		(exclude_from_sim no)
-		(at 111.76 71.374 0)
+		(at 105.41 71.374 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -795,7 +795,7 @@
 	)
 	(text "PF6"
 		(exclude_from_sim no)
-		(at 111.76 78.994 0)
+		(at 105.41 78.994 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -835,7 +835,7 @@
 	)
 	(text "PF9"
 		(exclude_from_sim no)
-		(at 111.76 73.914 0)
+		(at 105.41 73.914 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -855,7 +855,7 @@
 	)
 	(text "PB2"
 		(exclude_from_sim no)
-		(at 111.76 68.834 0)
+		(at 105.41 68.834 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -991,7 +991,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 71.12) (xy 133.35 71.12)
+			(xy 119.38 71.12) (xy 133.35 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1011,7 +1011,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 73.66) (xy 133.35 73.66)
+			(xy 119.38 73.66) (xy 133.35 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1031,7 +1031,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 76.2) (xy 133.35 76.2)
+			(xy 119.38 76.2) (xy 133.35 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1131,6 +1131,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 68.58) (xy 123.19 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98bcf11e-5410-4fe2-9898-304dc9e6a216")
+	)
+	(wire
+		(pts
 			(xy 130.81 57.15) (xy 130.81 58.42)
 		)
 		(stroke
@@ -1171,23 +1181,13 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 78.74) (xy 133.35 78.74)
+			(xy 119.38 78.74) (xy 133.35 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "ab0cdb93-2470-4685-80e0-63602c84ed38")
-	)
-	(wire
-		(pts
-			(xy 125.73 68.58) (xy 133.35 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba74e452-b6e2-4523-bc66-49d2dc1650dc")
 	)
 	(wire
 		(pts
@@ -1241,6 +1241,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 68.58) (xy 133.35 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f75cd05f-2a6b-4fde-bf40-162c7633bc9c")
+	)
+	(wire
+		(pts
 			(xy 143.51 139.7) (xy 143.51 138.43)
 		)
 		(stroke
@@ -1251,7 +1261,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 66.04) (xy 130.81 66.04)
+			(xy 119.38 66.04) (xy 130.81 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1294,7 +1304,7 @@
 	)
 	(hierarchical_label "~{BK1_CS}"
 		(shape input)
-		(at 125.73 66.04 180)
+		(at 119.38 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1305,7 +1315,7 @@
 	)
 	(hierarchical_label "BK1_IO2"
 		(shape bidirectional)
-		(at 125.73 76.2 180)
+		(at 119.38 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1316,7 +1326,7 @@
 	)
 	(hierarchical_label "CLK"
 		(shape input)
-		(at 125.73 68.58 180)
+		(at 119.38 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1338,7 +1348,7 @@
 	)
 	(hierarchical_label "BK1_IO0"
 		(shape bidirectional)
-		(at 125.73 71.12 180)
+		(at 119.38 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1349,7 +1359,7 @@
 	)
 	(hierarchical_label "BK1_IO1"
 		(shape bidirectional)
-		(at 125.73 73.66 180)
+		(at 119.38 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1382,7 +1392,7 @@
 	)
 	(hierarchical_label "BK1_IO3"
 		(shape bidirectional)
-		(at 125.73 78.74 180)
+		(at 119.38 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1394,7 +1404,7 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 128.27 63.5) (xy 128.27 81.28) (xy 104.14 81.28) (xy 104.14 63.5)
+				(xy 129.54 62.23) (xy 129.54 80.01) (xy 102.87 80.01) (xy 102.87 62.23)
 			)
 			(stroke
 				(width 0)
@@ -1403,13 +1413,13 @@
 			(fill
 				(type none)
 			)
-			(uuid 8802fbd3-ee47-4ae0-9e86-8698249d2bdd)
+			(uuid 61f6363b-58e3-4280-989f-fad2d70299c5)
 		)
 	)
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 115.57 63.5 0)
+		(at 116.84 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1419,7 +1429,7 @@
 		)
 		(uuid "4fc3033c-5422-429f-9c6d-8c85a1cc8ae1")
 		(property "Netclass" "QSPI_FLASH"
-			(at 116.2685 60.96 0)
+			(at 117.5385 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1428,7 +1438,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at -73.66 -8.89 0)
+			(at -72.39 -10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2186,6 +2196,82 @@
 			(project "siplex-som-s16"
 				(path "/3553d318-c74b-41b3-86db-bdd251e8121d/b2a8b37b-96db-4567-b891-31d7f85c3367"
 					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 125.73 68.58 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "adb7ecae-027e-4c9d-8e34-4b984cc901b2")
+		(property "Reference" "R9"
+			(at 129.032 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22R"
+			(at 121.92 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 125.73 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 125.73 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C473048"
+			(at 125.73 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9d32ff1b-0353-4088-81d7-d9561c687a1b")
+		)
+		(pin "1"
+			(uuid "428b8468-3545-472f-904b-327a220fd80d")
+		)
+		(instances
+			(project "siplex-som-s16"
+				(path "/3553d318-c74b-41b3-86db-bdd251e8121d/b2a8b37b-96db-4567-b891-31d7f85c3367"
+					(reference "R9")
 					(unit 1)
 				)
 			)

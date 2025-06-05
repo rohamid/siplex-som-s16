@@ -1,7 +1,7 @@
 (footprint "castellated_01x22_P1.27mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -5.5 0)
@@ -20,19 +20,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "20af10f4-be8f-4783-a822-e7b70531cd14")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 -5 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "a6c88bfe-1ec9-4e56-9232-6237d60c1d7c")
 		(effects
 			(font
 				(size 1 1)
@@ -276,4 +263,5 @@
 		(thermal_bridge_angle 45)
 		(uuid "8bdd4c4f-9409-4c0d-b072-9c9a5fca99c3")
 	)
+	(embedded_fonts no)
 )
