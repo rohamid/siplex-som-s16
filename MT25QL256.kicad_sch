@@ -1413,7 +1413,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 61f6363b-58e3-4280-989f-fad2d70299c5)
+			(uuid 3fbbdef9-d5fc-467b-a92a-7c86b33d1e4b)
 		)
 	)
 	(netclass_flag ""
@@ -1752,7 +1752,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4.3mm"
+		(property "Footprint" "W25Q256JVEIQ:SON127P800X600X80-9N"
 			(at 143.51 124.46 0)
 			(effects
 				(font
@@ -2063,7 +2063,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4.3mm"
+		(property "Footprint" "W25Q256JVEIQ:SON127P800X600X80-9N"
 			(at 143.51 73.66 0)
 			(effects
 				(font

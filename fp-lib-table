@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "castellated_holes_header")(type "KiCad")(uri "${KIPRJMOD}/lib/castellated_holes_header.pretty")(options "")(descr ""))
   (lib (name "custom-castellated-holes")(type "KiCad")(uri "${KIPRJMOD}/lib/custom-castellated-holes.pretty/custom-castellated-holes.pretty")(options "")(descr ""))
+  (lib (name "W25Q256JVEIQ")(type "KiCad")(uri "${KIPRJMOD}/lib/W25Q256JVEIQ")(options "")(descr ""))
 )
